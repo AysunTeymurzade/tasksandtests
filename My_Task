@@ -7,22 +7,22 @@ products.append(b)
 products.append(c)
 print(products)
 
-def add_product(list, product_name = None):
+def add_product(product_list, product_name):
    if product_name is None:
       print("Məhsul adı daxil edilməyib.")
    else:
-      list.append(product_name)
+      product_list.append(product_name)
       print("Məhsul əlavə olundu.")
 add_product(products, "kiwi")
 print(f"products: {products}")
 add_product(products, "grape")
 print(f"products: {products}")
 
-def remove_product(products):
-    if not products:
+def remove_product(product_list):
+    if not product_list:
         print("Siyahı boşdur, silmək mümkün deyil.")
     else:
-        products.pop()
+        product_list.pop()
         print("Son məhsul silindi.")
 
 product_name = input("Zehmet olmasa mehsul adini daxil edin: ")
