@@ -1,5 +1,0 @@
-Tapşırıqlar:
-1. while dövründən istifadə edərək 10 saniyəlik sadə bir gerisayım taymeri yaratmaq üçün bir kod yazın. Taymer bitdikdə (yəni qalan vaxt sıfıra çatdıqda), “Vaxt bitdi!” mesajı çap edilsin.
-2. Tərsinə (geriyə doğru) ədədlərlə naxış (şablon) çap et.
-3. Verilmiş ədədin (məsələn, 12345) tərsini çap et (54321).
-Bunların hər biri üçün python kodu yaz.
