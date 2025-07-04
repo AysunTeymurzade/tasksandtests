@@ -1,0 +1,4 @@
+Tapşırıqlar:
+1. Ay adını simvolik adla göstərən proqram: Cari ayı tarixdən götürüb, onu simvolik və yaradıcı bir adla təqdim edən proqram yaz. Hər ay üçün fərqli, obrazlı bir ad istifadə edilməlidir.
+2. Günlük motivasiya yaradıcısı: İstifadəçinin hansı gündə olduğunu müəyyən edib, həmin günə uyğun motivasiya mesajı göstərən proqram yaz.
+3. Yaşa görə filterləmə: Ad və yaş məlumatlarından ibarət siyahı üzrə istifadəçinin verdiyi yaş həddindən yuxarı olan şəxsləri çıxışda göstərən proqram yaz. Nəticədə ad və yaş göstərilməlidir.
