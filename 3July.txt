@@ -1,4 +1,4 @@
 Tapşırıqlar:
 1. Qonaq siyahısı idarə sistemi: İstifadəçinin qonaq siyahısı ilə işləyə biləcəyi sadə bir proqram yaz. İstifadəçi ad əlavə edə, siyahıda ad axtara və proqramdan çıxa bilməlidir. Əlavə edilən ad təkrar olmamalıdır, axtarış isə hissəvi də işləməlidir.
-2. Mətni hissələrə bölüb oxuma: Uzun bir mətni müəyyən simvol limitinə görə hissələrə bölən proqram yaz. Hər hissədən sonra istifadəçidən davam etməsi üçün təsdiq alınmalı, bütün mətn hissə-hissə göstərilməlidir.
+2. Mətni hissələrə bölüb oxuma: Uzun bir mətni müəyyən simvol limitinə görə hissələrə bölən proqram yaz. Hər hissədən (30 simvol) sonra istifadəçidən davam etməsi üçün təsdiq alınmalı, bütün mətn hissə-hissə göstərilməlidir.
 3. Bio analiz edici: İstifadəçinin daxil etdiyi “bio” mətni əsasında onun maraqları və xarakteri ilə bağlı təxminlər verən proqram yaz. Müəyyən söz və emojilərə görə nəticələr çıxarılmalıdır.
