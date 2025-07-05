@@ -1,6 +1,6 @@
 bio = input("İnstagram bio yaz: ")
 xasiyyet = []
-if any(emoji in bio for emoji in ":sparkles::cherry_blossom::black_heart::sunglasses:"):
+if any(emoji in bio for emoji in ["✨", "🌸", "🖤", "😎"]):
     xasiyyet.append("emosional və vizual yönümlü")
 if "kitab" in bio or "yazar" in bio:
     xasiyyet.append("ədəbi maraqlı")
