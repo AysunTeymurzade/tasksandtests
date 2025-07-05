@@ -1,6 +1,6 @@
-qonaqlar = ["Aysel", "Murad", "Samir", "Leyla"]
+qonaqlar = ["Ayla", "Mahir", "Sevda", "Leyli"]
 while True:
-    emr = input("Əlavə et / Axtar / Çıx: ").lower()
+    emr = input("Əlavə et / Axtar / Çıx: ")
     if emr == "əlavə et":
         yeni = input("Yeni qonağın adını yaz: ")
         if yeni in qonaqlar:
@@ -10,7 +10,7 @@ while True:
             print("Əlavə olundu.")
     elif emr == "axtar":
         ad = input("Axtarılan ad: ")
-        tapildi = any(ad.lower() in q.lower() for q in qonaqlar)
+        tapildi = any(ad in q for q in qonaqlar)
         if tapildi:
             print("Qonaq siyahıda var.")
         else:
