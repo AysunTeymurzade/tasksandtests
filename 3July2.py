@@ -6,3 +6,4 @@ def oxu_parca(metn, limit):
         basla += limit
 metn = "Bu çox uzun bir mətn ola bilər və istifadəçi onu hissə-hissə oxumaq istəyə bilər."
 oxu_parca(metn, 30)
+print("Bütün mətn oxundu.")
