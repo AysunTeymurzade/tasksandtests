@@ -1,8 +1,8 @@
 insanlar = [
-    {"ad": "Sona", "yas": 22},
-    {"ad": "Aysun", "yas": 24},
-    {"ad": "Kamran", "yas": 27},
-    {"ad": "Zəhra", "yas": 19}
+    {"ad": "Sona", "yas": 19},
+    {"ad": "Aysun", "yas": 22},
+    {"ad": "Kamil", "yas": 27},
+    {"ad": "Zəhra", "yas": 17}
 ]
 filtr = int(input("Neçə yaşdan yuxarıları göstərək? "))
 for insan in insanlar:
